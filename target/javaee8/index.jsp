@@ -4,7 +4,7 @@
 </head>
 <body>
 <h2>Hello World!</h2>
-This is sample project for RESTful API Service Development using JAX-RS.
+This is sample project for RESTful API Service Development using JAX-RS and Docker.
 To access the RESTful API, use the URL <a href="http://localhost:8080/javaee8/api/hello">http://localhost:8080/javaee8/api/hello</a>
 </body>
 </html>
